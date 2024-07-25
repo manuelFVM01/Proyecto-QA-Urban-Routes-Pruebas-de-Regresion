@@ -1,0 +1,1 @@
+Urban Routes - Pruebas de Regresión: Ejecuté casos de prueba para Urban Routes, un aplicativo de taxi, estableciendo un estado de aprobado o desaprobado para cada caso y elaborando informes de errores detallados.
